@@ -93,7 +93,9 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 Profit prediction:
+
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152069249/29a11d1c-3d4a-4918-8dc5-d734d564a93a)
+
 Function:
 
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152069249/537dd6c0-8ccb-4c36-a07e-9b57bcdd1fc2)
@@ -103,6 +105,7 @@ GRADIENT DESCENT:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152069249/45faf5c7-5e90-48f3-bf14-847a3a2387bc)
 
 COST FUNCTION USING GRADIENT DESCENT:
+
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152069249/2b60c2dd-1ea1-4f6c-b59d-fc98e231bd9c)
 
 LINEAR REGRESSION USING PROFIT PREDICTION:
@@ -110,6 +113,7 @@ LINEAR REGRESSION USING PROFIT PREDICTION:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152069249/752572e7-b60c-41ce-b6bf-2cc6a0999c6e)
 
 PROFIT PREDICTION FOR A POPULATION OF 35000:
+
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/152069249/bd212423-7b17-4407-b65e-deb33c37a9ec)
 
 ##PROFIT PREDICTION FOR A POPULATION OF 70000:
